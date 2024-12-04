@@ -25,7 +25,7 @@ This batch file script displays a digital clock that updates the current time an
 
 ## Screenshot
 <div align="center">
-  <img src="Screenshot%202024-06-%20130934.jpg" alt="Digital Clock Screenshot Screenshot">
+  <img src="Screenshot%202024-06-%20130934.jpg" alt="Digital Clock Screenshot">
 </div>
 
 ## Notes

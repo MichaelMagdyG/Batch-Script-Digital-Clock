@@ -24,7 +24,9 @@ This batch file script displays a digital clock that updates the current time an
 - The script uses the `ping` command to create a delay of approximately one second between updates.
 
 ## Screenshot
-![Digital Clock Screenshot](Screenshot 2024-06-21 130934.jpg)
+<div align="center">
+  <img src="Screenshot%202024-06-%20130934.jpg" alt="Digital Clock Screenshot Screenshot">
+</div>
 
 ## Notes
 - To exit the program, simply close the console window.
